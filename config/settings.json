@@ -1,0 +1,10 @@
+{
+    "active_preset_id": "solidworks",
+    "cycle_button": "back",
+    "auto_switch_cad_window": true,
+    "haptic_rumble_enabled": true,
+    "haptic_rumble_intensity": 0.65,
+    "osd_toast_enabled": true,
+    "minimize_to_tray_on_close": true,
+    "start_minimized": false
+}
